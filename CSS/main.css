@@ -335,6 +335,15 @@ width: 100vw;
 width:100%;
 height: 50vh;
 }
+.slick-dots li button:before {
+ 
+  color: silver ;
+}
+
+.slick-dots li.slick-active button:before {
+ 
+  color: #2196f3 ;
+}
 
 
 
