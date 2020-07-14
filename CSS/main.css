@@ -331,6 +331,12 @@ width: 100vw;
   color: #fff;
  
 }
+#loginModal iframe {
+width:100%;
+height: 50vh;
+}
+
+
 
 
 
