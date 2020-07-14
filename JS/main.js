@@ -1,4 +1,6 @@
-
+$(".youtubemodal").on('hide.bs.modal', function(){
+    $('.youtubeiframe').attr('src', $('.youtubeiframe').attr('src'));
+  });
 
   $(function () {
     $(document).scroll(function () {
