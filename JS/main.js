@@ -1,7 +1,4 @@
-$(".modal").on('hide.bs.modal', function(){
-    $('iframe').attr('src', $('iframe').attr('src'));
-      
-  });
+
 
   $(function () {
     $(document).scroll(function () {
